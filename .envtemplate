@@ -1,0 +1,10 @@
+//Remove the comments before using the templete as your .env .
+
+//URI needed to connect the back to your MongoDB server
+MONGODB_URI="mongodb://user:password@server_ip(localhost):port/?timeoutMS=5000"
+
+//PORT of the APP server
+PORT="8080"
+
+//Name of the Database you want to work with
+DATABASE="DBprueba"
