@@ -1,7 +1,7 @@
 # go-crud-api-NoSQL
 A template for a RESTful CRUD API in go with fiber and MongoDB. The API can work with any collection of a NoSQL database regardless the structure of said document.
 
-To TEST the API you cand use Postman or Thunder Client in Visual Studio Code
+To TEST the API you can use Postman or Thunder Client in Visual Studio Code
 
 ## Installing
 
